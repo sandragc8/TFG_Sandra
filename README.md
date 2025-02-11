@@ -3,13 +3,13 @@
 Este repositorio contiene el código, datasets y resultados de experimentos realizados durante el TFG, cuyo objetivo es analizar el impacto de la recursividad en la generación de texto por parte de modelos de lenguaje de gran tamaño (LLMs).
 
 ## 📂 Estructura del repositorio
-📦 TFG_Sandra
-├── 📁 Datasets. Conjunto de datos utilizados en los experimentos
-├── 📁Resultados. Resultados generados a partir de las pruebas con los modelos 
-  └── 📁MMLU
-    └── 📁Preguntas extensas N iteraciones. Contiene los resultados de ejecutar varias iteraciones recursivas.
-├── 📁 scripts. Código para preprocesamiento, evaluación y experimentos (próximamente) 
-└── README.md. Documentación del repositorio
+📦 TFG_Sandra<br>
+├── 📁 Datasets. Conjunto de datos utilizados en los experimentos<br>
+├── 📁Resultados. Resultados generados a partir de las pruebas con los modelos <br>
+  └── 📁MMLU<br>
+    └── 📁Preguntas extensas N iteraciones. Contiene los resultados de ejecutar varias iteraciones recursivas.<br>
+├── 📁 scripts. Código para preprocesamiento, evaluación y experimentos (próximamente) <br>
+└── README.md. Documentación del repositorio<br>
 
 ## 📄 Descripción del proyecto
 
