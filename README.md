@@ -6,8 +6,8 @@ Este repositorio contiene el código, datasets y resultados de experimentos real
 📦 TFG_Sandra<br>
 ├── 📁 Datasets. Conjunto de datos utilizados en los experimentos<br>
 ├── 📁Resultados. Resultados generados a partir de las pruebas con los modelos <br>
-    <pre>└── 📁MMLU<br></pre>
-    <pre>└── 📁Preguntas extensas N iteraciones. Contiene los resultados de ejecutar varias iteraciones recursivas.</pre><br>
+    └── 📁MMLU<br>
+    └── 📁Preguntas extensas N iteraciones. Contiene los resultados de ejecutar varias iteraciones recursivas.<br>
 ├── 📁 scripts. Código para preprocesamiento, evaluación y experimentos (próximamente) <br>
 └── README.md. Documentación del repositorio<br>
 
