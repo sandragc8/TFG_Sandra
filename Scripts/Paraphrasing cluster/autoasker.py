@@ -28,7 +28,7 @@ class AutoAskerTranslator:
         self.prompt_paraphrase = prompts[0]
         self.prompt_evaluate = prompts[1]
         self.languages = languages
-        access_token = "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"
+        access_token = "access_token"
         self.model = None
         self.tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True, token=access_token, padding_side='left', cache_dir="/home/jovyan/cached_models")
         self.tokenizer.pad_token = self.tokenizer.eos_token
